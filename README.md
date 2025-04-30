@@ -14,7 +14,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/你的用户名/ai-news-detection.git
+git clone https://github.com/felix-free/ai-news-detection.git
 ```
 
 2. 进入项目目录：
@@ -26,7 +26,7 @@ cd ai-news-detection
 
 ## 在线演示
 
-访问 GitHub Pages 部署版本：https://你的用户名.github.io/ai-news-detection/
+访问 GitHub Pages 部署版本：https://felix-free.github.io/ai-news-detection/
 
 ## 技术栈
 
